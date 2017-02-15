@@ -15,8 +15,7 @@ Path的使用</br>
 
 # 效果图
 ![效果图1](http://oler3nq5z.bkt.clouddn.com/Screenshot_2017-02-15-16-58-49_com.miui.home.png)</br>
-![效果图2](http://oler3nq5z.bkt.clouddn.com/Screenshot_2017-02-15-16-59-00_com.miui.home.png)</br>
-![底部效果图](http://oler3nq5z.bkt.clouddn.com/Screenshot_2017-02-15-16-59-00_com.miui.home.png)
+![效果图2](http://oler3nq5z.bkt.clouddn.com/Screenshot_second.png)</br>
 
 # 已知bug
 没有处理小米等国产rom悬浮窗</br>
