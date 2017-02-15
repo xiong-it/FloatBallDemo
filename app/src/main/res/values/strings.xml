@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android悬浮窗demo</string>
+
+    <string name="github_io_link">MichaelX\'s Blog:<u>https://xiong-it.github.io</u></string>
+    <string name="csdn_blog_link">MichaelX\'s CSDN:<u>http://blog.csdn.net/xiong_it</u></string>
+</resources>

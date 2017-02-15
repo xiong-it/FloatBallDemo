@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="#AA000000"
+            android:clickable="true"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/csdn_blog"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="@string/csdn_blog_link"
+                android:textColor="@android:color/white"
+                android:textSize="14.5sp"/>
+
+            <TextView
+                android:id="@+id/github_io_blog"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="@string/github_io_link"
+                android:textColor="@android:color/white"
+                android:textSize="14.5sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="双击小球波浪上涨，单击小球出现波浪"
+                android:textColor="@android:color/white"/>
+
+            <io.github.xiong_it.floatballdemo.BottomBallView
+                android:id="@+id/bottom_ball"
+                android:layout_width="@dimen/ball_width"
+                android:layout_height="@dimen/ball_height"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="5dp"/>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</merge>
